@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/jelenadabetic/Desktop/Poi2/poi/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="/Users/jelenadabetic/Desktop/Poi2/poi/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="/Users/jelenadabetic/Desktop/Poi2/poi/poi-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/jelenadabetic/Desktop/Poi2/poi/poi-excelant-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/jelenadabetic/Desktop/Poi2/poi/poi-ooxml-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/jelenadabetic/Desktop/Poi2/poi/poi-ooxml-schemas-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/jelenadabetic/Desktop/Poi2/poi/poi-scratchpad-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/jelenadabetic/Desktop/Poi2/poi/resolver.jar"/>
+	<classpathentry kind="lib" path="/Users/jelenadabetic/Desktop/Poi2/poi/xalan.jar"/>
+	<classpathentry kind="lib" path="/Users/jelenadabetic/Desktop/Poi2/poi/xbean_xpath.jar"/>
+	<classpathentry kind="lib" path="/Users/jelenadabetic/Desktop/Poi2/poi/xbean.jar"/>
+	<classpathentry kind="lib" path="/Users/jelenadabetic/Desktop/Poi2/poi/xbeans.jar"/>
+	<classpathentry kind="lib" path="/Users/jelenadabetic/Desktop/Poi2/poi/xerces.jar"/>
+	<classpathentry kind="lib" path="/Users/jelenadabetic/Desktop/Poi2/poi/xml-apis.jar"/>
+	<classpathentry kind="lib" path="/Users/jelenadabetic/Desktop/Poi2/poi/xmlpublic.jar"/>
+	<classpathentry kind="lib" path="/Users/jelenadabetic/Desktop/Poi2/poi/xsltc.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
