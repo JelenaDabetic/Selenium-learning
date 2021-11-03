@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-12T01:08:51 CEST" name="Default suite" finished-at="2021-10-12T01:09:04 CEST" duration-ms="12867">
+    <groups>
+    </groups>
+    <test started-at="2021-10-12T01:08:51 CEST" name="Default test" finished-at="2021-10-12T01:09:04 CEST" duration-ms="12867">
+      <class name="test_24_09.Tests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test_24_09.Tests@3b07a0d6]" started-at="2021-10-12T01:08:51 CEST" name="setUp" finished-at="2021-10-12T01:08:53 CEST" duration-ms="2234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="pageSetUp()[pri:0, instance:test_24_09.Tests@3b07a0d6]" started-at="2021-10-12T01:08:53 CEST" name="pageSetUp" finished-at="2021-10-12T01:08:58 CEST" duration-ms="5038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetUp -->
+        <test-method signature="successfulLogIn()[pri:10, instance:test_24_09.Tests@3b07a0d6]" started-at="2021-10-12T01:08:58 CEST" name="successfulLogIn" finished-at="2021-10-12T01:09:02 CEST" duration-ms="3729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfulLogIn -->
+        <test-method is-config="true" signature="deleteCookies()[pri:0, instance:test_24_09.Tests@3b07a0d6]" started-at="2021-10-12T01:09:02 CEST" name="deleteCookies" finished-at="2021-10-12T01:09:02 CEST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method is-config="true" signature="pageSetUp()[pri:0, instance:test_24_09.Tests@3b07a0d6]" started-at="2021-10-12T01:09:02 CEST" name="pageSetUp" finished-at="2021-10-12T01:09:03 CEST" duration-ms="411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetUp -->
+        <test-method signature="incorrectUsername()[pri:20, instance:test_24_09.Tests@3b07a0d6]" started-at="2021-10-12T01:09:03 CEST" name="incorrectUsername" finished-at="2021-10-12T01:09:03 CEST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incorrectUsername -->
+        <test-method is-config="true" signature="deleteCookies()[pri:0, instance:test_24_09.Tests@3b07a0d6]" started-at="2021-10-12T01:09:03 CEST" name="deleteCookies" finished-at="2021-10-12T01:09:03 CEST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method is-config="true" signature="pageSetUp()[pri:0, instance:test_24_09.Tests@3b07a0d6]" started-at="2021-10-12T01:09:03 CEST" name="pageSetUp" finished-at="2021-10-12T01:09:04 CEST" duration-ms="708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetUp -->
+        <test-method signature="incorrectPassword()[pri:30, instance:test_24_09.Tests@3b07a0d6]" started-at="2021-10-12T01:09:04 CEST" name="incorrectPassword" finished-at="2021-10-12T01:09:04 CEST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incorrectPassword -->
+        <test-method is-config="true" signature="deleteCookies()[pri:0, instance:test_24_09.Tests@3b07a0d6]" started-at="2021-10-12T01:09:04 CEST" name="deleteCookies" finished-at="2021-10-12T01:09:04 CEST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test_24_09.Tests@3b07a0d6]" started-at="2021-10-12T01:09:04 CEST" name="tearDown" finished-at="2021-10-12T01:09:04 CEST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test_24_09.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
